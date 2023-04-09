@@ -1,0 +1,266 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adonai",
+      "surnames": "Domínguez Hernández",
+      "title": "Software Engineer",
+      "description": "My name is Adonai Domínguez, I'm a 27 years software engineer, youtuber and full stack developer with more than 4 years of experience, specialized in React, Nextjs and Nodejs. I am what you are looking for to develop web solutions for your business. Thank you.",
+      "avatar": {
+        "alt": "1631813977730.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/06/a07805e2-2df4-48cd-ba7d-63e215e885ee_1631813977730.jpeg"
+      },
+      "location": {
+        "country": "Cuba",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/adonai-dominguez-hernandez/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CBK Digital Marketing "
+        },
+        "roles": [
+          {
+            "name": "Chief Technology Officer",
+            "startDate": "2023-01-06",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Agencia Aurea "
+        },
+        "roles": [
+          {
+            "name": "Especialista en posicionamiento web",
+            "startDate": "2022-11-01",
+            "challenges": [
+              {
+                "description": "Skills: Optimización para motores de búsqueda (SEO) · WordPress"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Get Your Web "
+        },
+        "roles": [
+          {
+            "name": "CEO & Founder",
+            "startDate": "2022-08-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "YOKE "
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "Skills: React Hooks · TypeScript · MongoDB · Mongoose · Git · JavaScript · Node.js · React.js"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CBK Digital Marketing "
+        },
+        "roles": [
+          {
+            "name": "Lead Developer",
+            "startDate": "2020-11-01",
+            "finishDate": "2022-08-31",
+            "challenges": [
+              {
+                "description": "Skills: Diseño de WordPress · WordPress"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ETECSA "
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de software",
+            "startDate": "2019-10-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "Skills: Git"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/adonai-dominguez-hernandez/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      }
+    ]
+  }
+}
