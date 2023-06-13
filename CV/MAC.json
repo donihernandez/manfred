@@ -197,6 +197,41 @@
       },
       {
         "organization": {
+          "name": "Youtube",
+          "URL": "https://www.youtube.com/channel/@DoniSpot"
+        },
+        "roles": [
+          {
+            "name": "Content Creator",
+            "startDate": "2019-11-01",
+            "challenges": [
+              {
+                "description": "I interviewed 6 IT experts and prominent YouTubers with development channels, and created 97+ web development tutorials and services to assist newcomers and foster community engagement. Merchandise is received, evaluated, and rotated with a focus on quality.\n\n\nI provided top-notch customer service by greeting clients, promptly addressing their inquiries, fulfilling special requests, and demonstrating a thorough understanding of all products, services, and promotions to offer tailored recommendations. I offered website, social media, and marketing services, along with my adeptness in social media platforms. Additionally, I managed scheduled uploads for the YouTube channel, uploaded videos, and set video metadata.\n\nSkills: Problem Solving · Adaptive Thinking · CSS · JavaScript · React.js"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "ETECSA ",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/010d774b-1599-451d-a022-56d313ab111e_descarga-(1).jpeg",
