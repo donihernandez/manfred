@@ -239,8 +239,12 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/adonai-dominguez-hernandez/",
+          "URL": "https://www.linkedin.com/in/adonaidominguez/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/donidhernandez",
+          "type": "other"
         }
       ],
       "contactMails": [
