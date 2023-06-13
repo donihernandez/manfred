@@ -357,6 +357,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Core Data",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Google Firebase",
           "type": "technology"
         }
