@@ -8,8 +8,8 @@
     "profile": {
       "name": "Adonai",
       "surnames": "Domínguez Hernández",
-      "title": "Software Engineer",
-      "description": "My name is Adonai Domínguez, I'm a 27 years software engineer, youtuber and full stack developer with more than 4 years of experience, specialized in React, Nextjs and Nodejs. I am what you are looking for to develop web solutions for your business. Thank you.",
+      "title": "Software Developer/Engineer, Application/Web Developer",
+      "description": "Result-driven software engineer and web developer with over 4+ years of experience and proficiency in designing and implementing user interfaces, coding ,debugging, frontend, and backend technologies, as well as maximizing the profitability of businesses, websites, and mobile applications by achieving client and corporate objectives. Expertise in software development, programming languages, E-Commerce, SEO, and database management, as well as an in-depth knowledge of IT platforms. Proficient in analyzing complex situations, maintaining productive and cooperative relationships, and exercising sound judgment.\nStrong team member who excels at conceiving effective strategies and tactics to improve the quality of the customer experience while delivering top-notch services.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/06/a07805e2-2df4-48cd-ba7d-63e215e885ee_1631813977730.jpeg",
         "alt": "1631813977730.jpeg"
@@ -22,8 +22,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://www.youtube.com/channel/@DoniSpot",
-        "description": "Doni Spot Youtube"
+        "URL": "https://www.youtube.com/channel/@DoniSpot"
       }
     ]
   },
