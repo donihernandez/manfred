@@ -70,15 +70,30 @@
       },
       {
         "organization": {
-          "name": "Agencia Aurea "
+          "name": "Agencia Aurea ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/558c49a5-cb30-4731-8812-c90478a0ed7d_diseno-sin-titulo-2.gif",
+            "alt": "Diseno-sin-titulo-2.gif"
+          },
+          "URL": "https://agenciaaurea.es/"
         },
         "roles": [
           {
-            "name": "Especialista en posicionamiento web",
+            "name": "Search Engine Optimization Specialist",
             "startDate": "2022-11-01",
             "challenges": [
               {
-                "description": "Skills: Optimización para motores de búsqueda (SEO) · WordPress"
+                "description": "My role involves devising effective strategies, providing guidance to clients, and developing customized plans to facilitate their rapid attainment of optimal positioning. Formulate effective tactics to enhance website traffic and improve search engine rankings. In addition, I conduct research to identify, expand, and optimize relevant keywords, and execute SEO recommendations to enhance website visibility and performance.\n\nAlso, I devise and execute a strategy for link-building, collaborate with editorial and marketing teams to enhance content and programming, and liaise with the development team to incorporate optimal SEO practices into new code. I recommend considering modifications to the website's framework, content, linking structure, and other pertinent elements.\nI create websites utilizing WordPress and artificial intelligence.My role involves devising effective strategies, providing guidance to clients, and developing customized plans to facilitate their rapid attainment of optimal positioning. Formulate effective tactics to enhance website traffic and improve search engine rankings. In addition, I conduct research to identify, expand, and optimize relevant keywords, and execute SEO recommendations to enhance website visibility and performance. Also, I devise and execute a strategy for link-building, collaborate with editorial and marketing teams to enhance content and programming, and liaise with the development team to incorporate optimal SEO practices into new code. I recommend considering modifications to the website's framework, content, linking structure, and other pertinent elements. I create websites utilizing WordPress and artificial intelligence.\n\nSkills: Problem Solving · Adaptive Thinking · Negociación · Optimización para motores de búsqueda (SEO) · WordPress"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
