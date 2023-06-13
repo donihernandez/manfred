@@ -30,7 +30,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "CBK Digital Marketing "
+          "name": "CBK Digital Marketing ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/9f153fe3-b46b-4921-990e-12f005fffc5f_descarga.png",
+            "alt": "descarga.png"
+          },
+          "URL": "https://cbkmarketing.com/"
         },
         "roles": [
           {
@@ -39,7 +44,25 @@
             "finishDate": "2023-02-01",
             "challenges": [
               {
-                "description": "TBD"
+                "description": "As a skilled leader, I expertly guided a team of 6 talented web developers to success. My responsibilities included conducting thorough keyword research, creating exceptional content, and optimizing clients' SEO to ensure maximum visibility and engagement. With my exceptional skills in client management and collaboration, I successfully arranged meetings with over 15 clients to gain insights into their unique needs and negotiate successful deals. Working alongside a team of 6 members, we developed tailored solutions that met the specific technical requirements of each client.\n\nDuring my journey, I provided valuable expertise and support by generating and updating database queries, creating and reviewing reports to address any unforeseen challenges, and delivering precise progress reports to management. \nWith a commitment to punctuality and a savvy utilization of all available resources, including remote access tools and software, I consistently demonstrated a reliable and trustworthy approach.As a skilled leader, I expertly guided a team of 6 talented web developers to success. My responsibilities included conducting thorough keyword research, creating exceptional content, and optimizing clients' SEO to ensure maximum visibility and engagement. With my exceptional skills in client management and collaboration, I successfully arranged meetings with over 15 clients to gain insights into their unique needs and negotiate successful deals. Working alongside a team of 6 members, we developed tailored solutions that met the specific technical requirements of each client. During my journey, I provided valuable expertise and support by generating and updating database queries, creating and reviewing reports to address any unforeseen challenges, and delivering precise progress reports to management. With a commitment to punctuality and a savvy utilization of all available resources, including remote access tools and software, I consistently demonstrated a reliable and trustworthy approach.\n\nSkills: Problem Solving · Adaptive Thinking · Negociación · CMS · WooCommerce · Wix · E-commerce · Marketing digital · Optimización para motores de búsqueda (SEO) · WordPress"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "Shopify",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
