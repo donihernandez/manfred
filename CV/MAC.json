@@ -363,12 +363,6 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
@@ -492,10 +486,6 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
       {
         "name": "NextJS",
         "type": "technology"
