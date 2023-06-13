@@ -429,12 +429,6 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Vue",
           "type": "technology"
         }
@@ -514,10 +508,6 @@
       },
       {
         "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
         "type": "technology"
       }
     ],
