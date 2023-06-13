@@ -64,6 +64,10 @@
       {
         "organization": {
           "name": "YOKE ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/5974fef8-4bdd-4610-ad8e-64386f157e72_descarga.jpeg",
+            "alt": "descarga.jpeg"
+          },
           "URL": "https://www.yoketeam.com/"
         },
         "roles": [
