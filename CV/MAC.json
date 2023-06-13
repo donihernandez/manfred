@@ -144,16 +144,35 @@
       },
       {
         "organization": {
-          "name": "ETECSA "
+          "name": "ETECSA ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/010d774b-1599-451d-a022-56d313ab111e_descarga-(1).jpeg",
+            "alt": "descarga (1).jpeg"
+          },
+          "URL": "https://etecsa.cu"
         },
         "roles": [
           {
-            "name": "Ingeniero de software",
+            "name": "SOFTWARE ENGINEER",
             "startDate": "2019-10-01",
             "finishDate": "2022-01-31",
             "challenges": [
               {
-                "description": "Skills: Git"
+                "description": "As the head of special projects at ETECSA, Cuba's sole telecommunications provider, I spearheaded the development of a highly effective web platform for clients utilizing the company's internet services. Additionally, I designed a web system to streamline fuel management and handling, resulting in a 90% satisfaction rate among department staff. \n\nMy approach to client complaints was swift and effective, presenting solutions and alternatives in a timely manner and following up to ensure complete resolution. I remained at the forefront of emerging technologies, constantly seeking new ways to enhance the department's technological landscape. Above all, I prioritized client satisfaction and established lasting professional relationships through exceptional service and attention to detail.As the head of special projects at ETECSA, Cuba's sole telecommunications provider, I spearheaded the development of a highly effective web platform for clients utilizing the company's internet services. Additionally, I designed a web system to streamline fuel management and handling, resulting in a 90% satisfaction rate among department staff. My approach to client complaints was swift and effective, presenting solutions and alternatives in a timely manner and following up to ensure complete resolution. I remained at the forefront of emerging technologies, constantly seeking new ways to enhance the department's technological landscape. Above all, I prioritized client satisfaction and established lasting professional relationships through exceptional service and attention to detail.\n\nSkills: Problem Solving · Adaptive Thinking · React Hooks · Git · JavaScript · Node.js · React.js"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
               }
             ]
           }
