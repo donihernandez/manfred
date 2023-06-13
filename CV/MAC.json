@@ -446,6 +446,49 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "SOFTWARE ENGINEERING",
+        "startDate": "2014-09-01",
+        "institution": {
+          "name": "TUH - Technological University of Havana",
+          "URL": "https://cujae.edu.cu/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/11df20a7-19c7-472e-ace5-ce97f8306798_cuba_universidadtecn.jpg",
+            "alt": "Cuba_UniversidadTecnologicadeLaHabanaJoseAntonioEcheverria_CUJAE_28_.jpg"
+          }
+        },
+        "finishDate": "2019-07-01",
+        "linkedCompetences": [
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Yii",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
