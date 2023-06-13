@@ -357,6 +357,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Apple iOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Core Data",
           "type": "technology"
         }
@@ -504,6 +510,14 @@
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Swift",
+        "type": "technology"
+      },
+      {
+        "name": "SwiftUI",
         "type": "technology"
       }
     ],
