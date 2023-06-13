@@ -127,16 +127,31 @@
       },
       {
         "organization": {
-          "name": "CBK Digital Marketing "
+          "name": "CBK Digital Marketing ",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/06/13/baf0d17e-d6d9-48c7-93e0-78c13edd1a33_descarga.png",
+            "alt": "descarga.png"
+          },
+          "URL": "https://cbkmarketing.com/"
         },
         "roles": [
           {
-            "name": "Lead Developer",
+            "name": "Web Designer",
             "startDate": "2020-11-01",
             "finishDate": "2022-08-31",
             "challenges": [
               {
-                "description": "Skills: Diseño de WordPress · WordPress"
+                "description": "As part of the web design team, and helped in its leadership, collaborating in web design tasks and e-commerce creation for various clients. As part of the web design team, and helped in its leadership, collaborating in web design tasks and e-commerce creation for various clients.\n\nSkills: Problem Solving · Adaptive Thinking · Negociación · Wix · WordPress"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Shopify",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
