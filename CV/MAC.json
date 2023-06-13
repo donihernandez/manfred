@@ -18,7 +18,14 @@
         "notes": "Autocompleted using Google Maps API (id: ChIJtUx6DwdJzYgRGqQQkVL3jHk)",
         "country": "Cuba"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://www.youtube.com/channel/@DoniSpot",
+        "description": "Doni Spot Youtube"
+      }
+    ]
   },
   "experience": {
     "jobs": [
