@@ -177,6 +177,81 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Freelance Web Developer",
+            "startDate": "2016-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "As a dynamic member of a skilled development team, I thrived in the fast-paced world of freelance work on Upwork. Over the course of an exciting 8-month journey, I dedicated myself to excellence as a backend developer for a renowned freelance agency.\n\nDuring my time with the agency, I embraced the opportunity to take on diverse projects, ranging from small-scale web applications to complex systems. Leveraging my expertise in Laravel and PHP, I played an instrumental role in crafting innovative and efficient solutions.\n\nMy contributions included designing and implementing robust backend architectures, creating efficient database structures, and optimizing code performance for seamless user experiences. Collaborating closely with the team, I consistently delivered high-quality code on time, exceeding client expectations.\n\nMy work experience as a freelance backend developer has not only deepened my technical proficiency but also sharpened my communication and project management skills. It has shaped me into a versatile professional who excels in delivering top-notch results while adhering to project timelines and client objectives.\n\nI am immensely proud of the accomplishments achieved during my time as part of the development team, and I am eager to bring my expertise and enthusiasm to new challenges. With my solid foundation in Laravel, PHP, and a passion for creating exceptional web solutions, I am confident in my ability to contribute to future projects and make a lasting impact.\n\nSkills: Problem Solving · Firebase · GitHub · Vercel · Optimización para motores de búsqueda (SEO) · Tailwind CSS · TypeScript · Mongoose · Express.js · Vuejs · JavaScript · WordPress · MySQL · PHP · Laravel · Node.js"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "Vuex",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
