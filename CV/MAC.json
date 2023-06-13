@@ -63,16 +63,59 @@
       },
       {
         "organization": {
-          "name": "YOKE "
+          "name": "YOKE ",
+          "URL": "https://www.yoketeam.com/"
         },
         "roles": [
           {
-            "name": "Full Stack Developer",
+            "name": "FULLSTACK DEVELOPER",
             "startDate": "2022-01-01",
             "finishDate": "2022-05-31",
             "challenges": [
               {
-                "description": "Skills: React Hooks · TypeScript · MongoDB · Mongoose · Git · JavaScript · Node.js · React.js"
+                "description": "As the mastermind behind the athlete management dashboard, I took charge of its creation for exclusive internal use. As a valuable member of the team, I contributed to the development process and expertly resolved any issues that arose. My responsibilities included conducting thorough research and analysis to identify the underlying causes and provide effective solutions.\n\nI was tasked with creating web3 NFT collection websites for https://irishplayersclub.com. With my expertise in frontend and backend development, I have successfully worked with databases such as MongoDB and Firestore. My extensive knowledge of application, data, and infrastructure disciplines has enabled me to develop top-notch documentation and quality management reports as required.As the mastermind behind the athlete management dashboard, I took charge of its creation for exclusive internal use. As a valuable member of the team, I contributed to the development process and expertly resolved any issues that arose. My responsibilities included conducting thorough research and analysis to identify the underlying causes and provide effective solutions. I was tasked with creating web3 NFT collection websites for https://irishplayersclub.com. With my expertise in frontend and backend development, I have successfully worked with databases such as MongoDB and Firestore. My extensive knowledge of application, data, and infrastructure disciplines has enabled me to develop top-notch documentation and quality management reports as required.\n\nSkills: Problem Solving · Adaptive Thinking · Firebase · Context API · GitHub · Vercel · Next.js · Desarrollo front end · React Hooks · TypeScript · MongoDB · Mongoose · Git · Express.js · JavaScript · Node.js · React.js"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
               }
             ]
           }
