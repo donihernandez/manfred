@@ -519,11 +519,11 @@
         },
         {
           "URL": "https://github.com/donihernandez",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/donidhernandez",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
@@ -531,8 +531,8 @@
       ],
       "phoneNumbers": [
         {
-          "number": "54497125",
-          "countryCode": "+53"
+          "number": "613756847",
+          "countryCode": "+34"
         }
       ]
     },
